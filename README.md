@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 
-🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACTJS, REACT NATIVE, SQL
+🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACTJS, REACT NATIVE.
+
+
 📫 How to reach me: @walissonsou
 
 <br><br>
