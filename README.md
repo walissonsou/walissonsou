@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="![image](https://user-images.githubusercontent.com/88872797/139166385-fde3ca31-be28-4f47-a7a5-75b335657a41.png)"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Walisson Souza</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
 
 
 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACTJS, REACT NATIVE.
