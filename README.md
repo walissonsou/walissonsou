@@ -1,6 +1,6 @@
 
 
-## Oi, meu nome é Walisson, e estudo/trabalho com programação e tecnologia!
+## Oi, meu nome é Walisson, e estudo/trabalho com essas tecnologias abaixo:
 <div align="center">
   <a href="https://https://github.com/walissonsou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walissonsou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
